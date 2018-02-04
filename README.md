@@ -1,1 +1,1 @@
-# Training project for ["Курс по верстке"](https://erodionov.ru/verstka/FhTKluFzm7/Z85TwJEQNd)
+# Training project for ["Курс по верстке"](https://erodionov.ru/verstka)
